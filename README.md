@@ -1,7 +1,7 @@
-# Challenge ONE+ Alura - Turma 6 - Encoder
+# Challenge ONE - Alura + Oracle - Turma 6 - Criptografia
 Página de texto para se criptografar e descriptografar
 
-Este desafio, foi o primeira tarefa no programa One e Alura para a turma 6.
+Este desafio, foi o primeira tarefa do processo de seletivo do Programa ONE para a turma 6.
 
 O desafio tinha algumas requisitos serem seguidas:
 - Construção de uma página onde ousuário pudesse inserir um texto e este ser criptografado ou descriptografado.
