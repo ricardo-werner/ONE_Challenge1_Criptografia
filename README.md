@@ -1,30 +1,89 @@
-# Challenge ONE - Alura + Oracle - Turma 6 - Criptografia
-Página de texto para se criptografar e descriptografar
+# Challenge - Alura + Oracle - Turma 6 - Criptografia
 
-Este desafio, foi o primeira tarefa do processo de seletivo do Programa ONE para a turma 6.
+### Alura + Oracle – Programa ONE
 
-O desafio tinha algumas requisitos serem seguidas:
-- Construção de uma página onde ousuário pudesse inserir um texto e este ser criptografado ou descriptografado.
-Sobre o Projeto:
-- Página desenvolvida em HTML, CSS e JavaScript.
-- Áreas para inserção e saída de resultado da criptografia ou descriptografia.
-- Botão separado para criptografia e descriptografia.
-- Pensando em como interagir com o usuário, foram adicionados algunas comodidades:
-  - Autofocus na caixa de texto de entrada.
-  - Botão de reiniciar (executa um reload da página, limpando todos os campos).
-  - Botão copiar (copia (ctrl + c) o texto da área de saída para a área de transferência, com alert e ao clicar no ok, a página é recarregada.
-  - Botão colar (transfere (ctrl + v) o texto da área de transferência para a área de texto principal da página). 
+#### Criação de uma página com uma aplicação para Criptografia e Descriptografia de texto
 
-- Utilização obrigatória de keys (vogais), sendo:
-  - vogal a => ai
-  - vogal e => enter
-  - vogal i => imes
-  - vogal o => ober
-  - votal u => ufat
-  - funcionamento apenas com letras minúsculas, sem acentuação ou caracteres especiais.
-  - Deve ser possível a conversão para o texto original => entra  sai => enterntrai  => entra.
-  - Esta conversão deve aparecer na área de resultado.
-  
-  - Nova versão já contemplando dispositivos móveis, com resolução até 480px.
+### 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/ricardo-werner)
 
-  - Link do Projeto - 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-werner)
+
+
+Status - Concluído
+
+### Demonstração
+
+Tela do Enigma- Criptógrafo
+<p align="center">
+  <img width="480" src="to_readme/criptografia.jpg">
+</p>
+
+Video do funcionamento do Enigma- Criptógrafo
+<p align="center">
+    <img width="480" src="to_readme/criptografia.gif">
+</p>
+
+
+### O Desafio
+Neste desafio foi proposto criar uma aplicação que criptografa textos, assim poderemos trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
+
+### Requisitos da Aplicação
+
+| Item  | Descrição                                            
+| ----- | ---------------------------------------------------------------------- |
+|  1    |  A  aplicação deverá ser desenvolvida em HTML, CSS e JavaScript.                           |
+|  2    |  A Aplicação deverá seguir os cartões do Trello.                       |
+|  3    |  Modelagem do layout, formatos, tipografias. cores e organização Figma.|
+|  3.1  |  Opcional podendo fazer a modelagem de modo livre.               |
+|  4    |  Deverá funcionar com letras minúsculas                |
+|  5    |  Não deverá ser utilizada letras com acentos e nem caracteres especiais                |
+|  6    |  Deverá ser possível converter para a versão criptografada e também retornar para a palavra original                |
+|  7    |  A Aplicação poderá ter um botão que copie o texto criptografado ou descriptografado para a área de transferência ( Ctrl + C => Ctrl +V)                |
+|  8    | - Utilização obrigatória de keys (vogais), sendo:
+|       |   - vogal a => ai        |
+|       |   - vogal e => enter      |
+|       |   - vogal i => imes      |
+|       |   - vogal o => ober      |
+|       |   - votal u => ufat  |
+
+### Plano do Projeto
+No desenvolvimento desta aplicação, colocamos em prática:
+
+| Item  | Descrição                                            
+| ----- | ------------- |
+|  1    |  HTML         |
+|  2    |  CSS          |
+|  3    |  JavaScript   |
+|  4    |  Skills       |
+
+### Tecnologias utilizadas:
+- Visual Studio Code
+- HTML
+- CSS
+- JavaScript
+
+Explorar este projeto foi uma experiência incrivelmente enriquecedora, que me permitiu aprofundar significativamente meu conhecimento na criação básica de uma aplicação, envolvendo HTML, CSS e JavaScript. Durante essa jornada, descobri a notável flexibilidade e a impressionante capacidade de adaptação dessas tecnologias. Além disso, essa experiência também me guiou em uma reflexão profunda sobre a importância da estruturação inteligente de aplicações, com o objetivo de facilitar futuras manutenções.
+
+Para utilizar esta aplicação como base, faça o seguinte passo-a-passo:
+Clone o projeto para a sua máquina:
+```bash
+https://github.com/ricardo-werner/ONE_Challenge1_Criptografia.git
+```
+Rode o aplicativo na web ativando o go live no Vs Code (click em cima do go live para ativar):
+<p align="center">
+  <img width="480" src="to_readme/GoLive.jpg"
+</p>
+
+<p align="center">
+  <img width="480" src="to_readme/GoLiveOn.jpg"
+</p>
+
+Resultado na página da web:
+<p align="center">
+  <img width="480" src="to_readme/criptografia.jpg">
+</p>
+
+
+## Autor
+Ricardo Werner – Desenvolvedor sempre em desenvolvimento
