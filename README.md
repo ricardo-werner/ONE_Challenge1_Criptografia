@@ -10,7 +10,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-werner)
 
 
-Status - Concluído
+### Status - Concluído
 
 ### Demonstração
 
@@ -65,7 +65,7 @@ No desenvolvimento desta aplicação, colocamos em prática:
 
 Explorar este projeto foi uma experiência incrivelmente enriquecedora, que me permitiu aprofundar significativamente meu conhecimento na criação básica de uma aplicação, envolvendo HTML, CSS e JavaScript. Durante essa jornada, descobri a notável flexibilidade e a impressionante capacidade de adaptação dessas tecnologias. Além disso, essa experiência também me guiou em uma reflexão profunda sobre a importância da estruturação inteligente de aplicações, com o objetivo de facilitar futuras manutenções.
 
-Para utilizar esta aplicação como base, faça o seguinte passo-a-passo:
+## Para utilizar esta aplicação como base, faça o seguinte passo-a-passo:
 Clone o projeto para a sua máquina:
 ```bash
 https://github.com/ricardo-werner/ONE_Challenge1_Criptografia.git
