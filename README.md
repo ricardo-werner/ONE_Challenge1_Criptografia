@@ -84,6 +84,11 @@ Resultado na página da web:
   <img width="480" src="to_readme/criptografia.jpg">
 </p>
 
+#### Para verificação do projeto sem a necessidade de clonar o repositório, acesse o link abaixo:
+```bash
+https://rocketseat-nlw-expert-react-js-notes.vercel.app/
+```
+
 
 ## Autor
 Ricardo Werner – Desenvolvedor sempre em desenvolvimento
